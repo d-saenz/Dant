@@ -22,3 +22,26 @@ La cooperación de los individuos aumenta su eficiencia con respecto a las fuerz
 Abrir recursos compartidos es inconsistente con la economía actual. Pero, por otro lado, es la misma base para la colaboración a gran escala, abierta, o DAOs. Para ser efectiva, la DAO necesita incentivar y recompensar a los individuos de la red. Como resultado, más componentes compartibles existentes apoyarán el crecimiento y la efectividad de la DAO. <br><br>
 <h3>Futuro</h3>
 El equilibrio en un estado cooperativo es necesario en una Organización, las DAO reemplazarán las estructuras corporativas existentes porque son más amables o más morales, simplemente porque serán mucho más efectivas.
+<h2>¿Qué es DANT?</h2>
+DANT o Decentralized Autonomous Network Teams es una entidad creada y operada en el libro mayor descentralizado de Ethereum por uno o múltiples propietarios humanos, agentes autónomos, o una mezcla de ambos que comparten un propósito común de crear un grupo de trabajo eficiente que se une para enfocar sus diversos talentos y organizar sus habilidades o recursos disponibles colectivamente para lograr objetivos específicos y declarados por cada equipo.
+DANT usando la analogía de las hormigas que pueden colaborar entre ellas mismas con una eficiencia muy alta de manera eficaz, cada una trabaja  como un conjunto, con un objetivo de que crezca la colonia, DANT establece un  ambiente de trabajo que intenta replicar la perfecta organización de las hormigas.
+Un equipo de trabajo autónomo posee algunas características únicas y una de ellas es la capacidad de trabajar sin ningún agente regulado, si no que sus propios miembros lo regulan. Esto le permite ir mas allá de lo que un equipo común puede hacer.También puede colaborar con otros equipos dentro de la misma red descentralizada intercambiando valor, o responsabilidades para un proyecto conciso.
+No solo es una solución a los problemas de equipos sino que también es una comunidad abierta a nuevos individuos que aceptan el concepto de los equipos autónomos y desean colaborar en el proyecto, ya que el código el código DANT está completamente abierto a cambios y es de licencia libre.
+<h2>¿Objetivo de DANT?</h2>
+<h3>El proyecto de DANT tiene algunos objetivos principales en el cual se desarrolla el proyecto, los cuales son:</h3>
+Crear un ambiente de trabajo totalmente autónomo.
+Construir un mundo en el que todos tengan el apalancamiento financiero para realizar un proyecto.
+Construir una comunicación eficaz entre equipos de trabajo aunque colaboren en diferentes proyectos.
+Facilitar la búsqueda de trabajo en software, como lo es para un conductor de Uber encontrar un viaje hoy.
+Construir una red con incentivos alineados, especialmente entre capital y mano de obra.
+Mantener evaluados los objetivos de cada proyecto, para poder tomar decisiones mas efectivas.
+<h2>Soluciones</h2>
+DANT desarrolla un concepto claro de una organización autónoma formada por equipos de trabajos que pueden trabajar sin un tipo de entidad regulatoria, el cual trabaja por medio de consensos entre el mismo equipo para la toma de decisiones, como también el manejo de poder colaborar con otros equipos para intercambiar activos o crear algo juntos sin necesidad de entidades regulatorias.
+Sistema de Votaciones
+Almacenamiento compartido
+Interoperabilidad en equipos
+Crowdfunding
+FreeLancer Marketplace 
+Autonomía en equipos
+Sistema de comunicación
+Project Knowledge Engine
